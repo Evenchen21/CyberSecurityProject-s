@@ -7,7 +7,7 @@
 
 # Copyright © Guy_Evenchen 2023
 
-#All rights reserved. This script is the intellectual property of Guy Evenchen. You may use, modify, and distribute this script for educational and non-commercial purposes only. Any unauthorized use, reproduction, or distribution is strictly prohibited. [Your Name] assumes no responsibility for any damages or liabilities arising from the use of this script.
+#All rights reserved. This script is the intellectual property of Guy Evenchen. You may use, modify, and distribute this script for educational and non-commercial purposes only. Any unauthorized use, reproduction, or  distribution is strictly prohibited. [Your Name] assumes no responsibility for any damages or liabilities arising from the use of this script.
 
 # For inquiries, please contact https://www.linkedin.com/in/guy-evenchen/ .
 
